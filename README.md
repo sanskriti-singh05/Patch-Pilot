@@ -16,7 +16,7 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-shubhmohan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sanskriti-singh05)
+[![GitHub](https://img.shields.io/badge/GitHub-Sanskriti_Singh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sanskriti-singh05)
 [![GitHub followers](https://img.shields.io/github/followers/shubhmohan?style=flat-square&logo=github&label=Follow)](https://github.com/sanskriti-singh05)
 [![Stars](https://img.shields.io/github/stars/shubhmohan/Patch_Pilot?style=flat-square&color=yellow)](https://github.com/sanskriti-singh05/Patch_Pilot/stargazers)
 
