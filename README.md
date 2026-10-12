@@ -16,13 +16,11 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-shubhmohan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shubhmohan)
-[![GitHub followers](https://img.shields.io/github/followers/shubhmohan?style=flat-square&logo=github&label=Follow)](https://github.com/shubhmohan)
+[![GitHub](https://img.shields.io/badge/GitHub-shubhmohan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sanskriti-singh05)
+[![GitHub followers](https://img.shields.io/github/followers/shubhmohan?style=flat-square&logo=github&label=Follow)](https://github.com/sanskriti-singh05)
 [![Stars](https://img.shields.io/github/stars/shubhmohan/Patch_Pilot?style=flat-square&color=yellow)](https://github.com/shubhmohan/Patch_Pilot/stargazers)
 
 <br/>
-
-**Built by [@shubhmohan](https://github.com/shubhmohan)**
 
 </div>
 
@@ -184,11 +182,11 @@ swytchcode exec github.repo.delete --input owner=... --input repo=... --dry-run
 <summary><b>Click to see a real run</b> 👇</summary>
 
 ```
-Checking shubhmohan/Patch_Pilot for failed runs...
+Checking sanskriti-singh05/Patch_Pilot for failed runs...
 
 Triaging run #34098639400 (CI)...
 Classification: ENV_CONFIG
-Filed issue: https://github.com/shubhmohan/Patch_Pilot/issues/1
+Filed issue: https://github.com/sanskriti-singh05/Patch_Pilot/issues/1
 ```
 
 </details>
@@ -220,9 +218,9 @@ Filed issue: https://github.com/shubhmohan/Patch_Pilot/issues/1
 
 <div align="center">
 
-**Built by [@shubhmohan](https://github.com/shubhmohan)**
+**Built by [@sanskriti-singh05](https://github.com/sanskriti-singh05)**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhmohan)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanskriti-singh05)
 
 ⭐ **If this project helped you, consider giving it a star!** ⭐
 
